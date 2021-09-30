@@ -1,6 +1,6 @@
 
 
-print('Programa para calcular el importe del alquiler de una bicicleta')
+print('Puta mierda')
 
 #Pedir datos
 
